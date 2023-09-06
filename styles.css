@@ -11,6 +11,9 @@
 .Logo {
 	text-align:center;
 }
+img{
+	margin-bottom:0px;
+}
 .Logo{
 	flex:2;
 }
@@ -51,7 +54,7 @@ input{
 	border:1px solid grey;
 	
 }
-.account{
+.signup{
 	background-color:#42B72A;
 	border: none;
     border-radius: 6px;
@@ -60,5 +63,7 @@ input{
 	color:white;
 	width:fit-content;
 	margin:0 auto;
-	
+}
+a{
+	text-decoration:none;
 }
