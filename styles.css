@@ -27,9 +27,9 @@ form{
 	background-color:white;
 	box-shadow:2px 2px 4px black;
 	padding:8px;
-	justify-content:space-between;
-	width:200px;
-	height:200px;
+	justify-content:space-around;
+	width:300px;
+	height:300px;
 }
 input{
 	padding:5px;
