@@ -1,6 +1,6 @@
 .facebook{
 	display:flex;
-	justify-content:space-evenly;
+	justify-content:space-between;
 	align-items:center;
 	background-color:white;
 	width:700px;
@@ -20,7 +20,7 @@ img{
 .card{
 	flex:2;
 }
-.card{
+form{
 	display:flex;
 	flex-direction:column;
 	border:1px solid white;
