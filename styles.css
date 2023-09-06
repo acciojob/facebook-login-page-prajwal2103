@@ -6,8 +6,10 @@
 	width:700px;
 	height:300px;
 	padding:10px;
-	
-	border:1px solid black;
+	border:1px solid 
+}
+.Logo {
+	text-align:center;
 }
 .Logo{
 	flex:2;
