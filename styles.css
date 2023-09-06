@@ -63,6 +63,7 @@ input{
 	color:white;
 	width:fit-content;
 	margin:0 auto;
+	cursor:pointer;
 }
 a{
 	text-decoration:none;
